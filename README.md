@@ -1,2 +1,5 @@
-# test-react.js
-cours react.js
+# Projet de test de git 
+
+1- Cloner
+2- Modifier 
+3- Pousser ses modifs
