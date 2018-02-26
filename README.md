@@ -7,4 +7,4 @@ Bien le bonjour Julie
 
 ce projet comporte aussi une image
 
-test pull request
+j'ai compris !! :) 
