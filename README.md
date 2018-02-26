@@ -1,5 +1,6 @@
 # Projet de test de git 
 
+<<<<<<< HEAD
 1- Cloner --> git clone + url
 2- Modifier --> git status --> git add . --> git commit -m "texte descriptif
 3- Pousser ses modifs --> git push
